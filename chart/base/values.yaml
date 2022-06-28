@@ -23,7 +23,7 @@ service:
   port: 50051
 
 submariner:
-  enabled: true
+  enabled: false
 
 route:
   enabled: false
